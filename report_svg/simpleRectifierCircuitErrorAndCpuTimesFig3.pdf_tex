@@ -1,6 +1,6 @@
 %% Creator: Inkscape 0.48.5, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
-%% Accompanies image file '../../figures/ece1254/report_svg/simpleRectifierCircuitErrorAndCpuTimesFig3.pdf' (pdf, eps, ps)
+%% Accompanies image file '../figures/ece1254-multiphysics/report_svg/simpleRectifierCircuitErrorAndCpuTimesFig3.pdf' (pdf, eps, ps)
 %%
 %% To include the image in your LaTeX document, write
 %%   \input{<filename>.pdf_tex}
@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.75)%
-    \put(0,0){\includegraphics[width=\unitlength]{../../figures/ece1254/report_svg/simpleRectifierCircuitErrorAndCpuTimesFig3.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../figures/ece1254-multiphysics/report_svg/simpleRectifierCircuitErrorAndCpuTimesFig3.pdf}}%
     \put(0.5175,0.01509722){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[b]{\smash{N (Number of Harmonics)}}}%
     \put(0.13,0.04676389){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[b]{\smash{10100}}}%
     \put(0.5175,0.04676389){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[b]{\smash{10101}}}%
